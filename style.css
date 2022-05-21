@@ -22,4 +22,5 @@ body
     height: 700px;
     background-color: #EEC7D0;
     border-radius: 50%;
+    border: 3px solid black;
 }
